@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dangki", "Dangki\Dangki.csproj", "{9194838B-977A-4E61-A02B-6EB327103C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dangnhap", "Dangnhap\Dangnhap.csproj", "{058786E2-4B1D-4F4D-9F4B-AC8178264C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9194838B-977A-4E61-A02B-6EB327103C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9194838B-977A-4E61-A02B-6EB327103C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9194838B-977A-4E61-A02B-6EB327103C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9194838B-977A-4E61-A02B-6EB327103C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{058786E2-4B1D-4F4D-9F4B-AC8178264C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058786E2-4B1D-4F4D-9F4B-AC8178264C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058786E2-4B1D-4F4D-9F4B-AC8178264C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058786E2-4B1D-4F4D-9F4B-AC8178264C62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F57BA3-AC07-4783-9B2A-B95DAC8B2436}
+	EndGlobalSection
+EndGlobal
